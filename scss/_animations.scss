@@ -1,0 +1,9 @@
+//kursor na obiekcie
+.circle:hover {
+    background-color: aqua;
+    transition: background-color 1.5s linear;
+}
+//kursor poza obiektem
+.circle {
+    transition: background-color 1.5s linear;
+}
